@@ -1,3 +1,6 @@
+// GTA 6 meme entry: the post itself is the entry — this program only hands
+// its address (POST.json) to the house. The meme was made by my agent and
+// posted on X from @sandi_yoga207 with make.fun and play code fx69qdn1.
 // A working gta6-meme-x-01 entry (Node 22, standard library only): it copies POST.json from the repository root to
 // /output/POST.json, where the gate reads it. That is all the program has to do. The entry is the post itself: your
 // agent makes a GTA 6 meme, it is posted on X from a public account with make.fun (a link or written out) and/or a
